@@ -1,9 +1,9 @@
-- 👋 Hi, I’m [@ShubhamTiwari25](https://github.com/ShubhamTiwari25)
+- 👋 Hi, I’m [Shubham Tiwari](https://github.com/blaze2004)
 - 👀 I'm an enthusiastic developer and is always ready to learn more.
 - :bulb: Programming languages I know includes C++, python, html, css, php, sql, javascript.
 - 🌱 I am learning new things and will use my skills to contribute to open source.
 - 📫 How to reach me
-  * [Github](https://github.com/ShubhamTiwari25)
+  * [Github](https://github.com/blaze2004)
   * [Codechef](https://www.codechef.com/users/blaze2004)
   * [Codeforces](https://codeforces.com/profile/blaze2004)
 
