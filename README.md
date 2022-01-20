@@ -8,6 +8,7 @@
   * [Codeforces](https://codeforces.com/profile/blaze2004)
   * [Linkedin](https://www.linkedin.com/in/blaze2004)
   * [Twitter](https://twitter.com/blaze06112004)
+  * [Medium](https://blaze2004.medium.com)
 <!---
 ShubhamTiwari25/ShubhamTiwari25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
