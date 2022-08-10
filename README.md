@@ -1,6 +1,7 @@
 - 👋 Hi, I’m [Shubham Tiwari](https://github.com/blaze2004)
-- 👀 I'm an enthusiastic developer and is always ready to learn more.
-- :bulb: Programming languages I know includes C++, python, html, css, php, sql, javascript.
+- :man:  I am a student developer who is passionate about making things that are both beautiful and functional.
+- 👀 I love turning my ideas into reality, and I am always looking for new ways to improve my skills.
+- :bulb: Programming languages I know includes C++, python, html, css, php, sql, javascript, flutter.
 - 🌱 I am learning new things and will use my skills to contribute to open source.
 - 📫 How to reach me
   * [Github](https://github.com/blaze2004)
